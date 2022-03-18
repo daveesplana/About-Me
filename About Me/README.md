@@ -1,3 +1,4 @@
 # About Me
 hi!, im dave
-im still currently learning python 
+
+im still currently learning python
